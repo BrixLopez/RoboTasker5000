@@ -24,6 +24,6 @@
 ---
 ---
 
-<h1 align="center">Trello Collaboration </h1>
+<h1 align="center">Trello User Stories </h1>
 
-[Trello ScreenShots](TunaSandwich.html)
+[Trello User Stories](UserStories.md)
