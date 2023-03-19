@@ -1,5 +1,11 @@
 
-# Chef Salad 
+---
+# Chef Salad
+>
+>![Octocat](cs2.jpeg)
+>
+---
+
 ## Interview Questions 
 
 
