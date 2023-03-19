@@ -2,7 +2,7 @@
 ---
 # Chicken Soup
 >
->![Octocat](cs.jpeg)
+>![Octocat](cs.webp)
 >
 ---
 
