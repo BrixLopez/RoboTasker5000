@@ -20,5 +20,6 @@
 > 1. Does the consistency of the chili have to be thick or more soup-like? 
 > 1. Are there any dietary preferences or limits that need to be considered?
 
-
-[back](./)
+---
+## [Go Back to Home Page](./)
+---
