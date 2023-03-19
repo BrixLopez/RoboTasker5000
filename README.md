@@ -1,5 +1,10 @@
 # RoboTasker5000
 
+<div style="color: blue;">
+	<h1>This heading and its content will be blue</h1>
+	<p>This paragraph and its content will also be blue.</p>
+</div>
+
 <h1 align="center">  HOME</h1>
 
 >
