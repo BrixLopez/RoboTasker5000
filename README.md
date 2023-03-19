@@ -11,7 +11,7 @@
 
 | Recipe      | Interview Questions   | 
 |:-------------|:------------------|
-| Tuna Fish Sandwich | [Link to another page](TunaSandwich.md) | 
+| Tuna Fish Sandwich | [Link to another page](TunaSandwich.html) | 
 | Chicken Soup | [Link to another page](./another-page.html).| 
 | Chili and Rice  | [Link to another page](./another-page.html). | 
 | Chef Salad     | [Link to another page](./another-page.html). |
