@@ -18,5 +18,6 @@
 > 1. Should there be any other sides or condiments provided with the salad? 
 > 1. Are there any dietary preferences or limits that need to be considered?
 
-
-[back](./)
+---
+## [Go Back to Home Page](./)
+---
