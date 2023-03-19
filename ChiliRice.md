@@ -1,6 +1,12 @@
 
 
-# Chili and Rice
+---
+# Chili and Rice 
+>
+>![Octocat](cr.webp)
+>
+---
+
 ## Interview Questions 
 
 
