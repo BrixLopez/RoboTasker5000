@@ -9,11 +9,11 @@
 # Documentation Requirements
 ## Interview Questions 
 
-| Recipe      | Interview Questions   | 
+| *Recipe*   | *Interview Questions*   | 
 |:-------------|:------------------|
-| Tuna Fish Sandwich | [Link to another page](TunaSandwich.html) | 
-| Chicken Soup | [Link to another page](ChickenSoup.html)| 
-| Chili and Rice  | [Link to another page](ChiliRice.html) | 
-| Chef Salad     | [Link to another page](ChefSalad.html)|
+| **Tuna Fish Sandwich** | [Link to another page](TunaSandwich.html) | 
+| **Chicken Soup**| [Link to another page](ChickenSoup.html)| 
+| **Chili and Rice** | [Link to another page](ChiliRice.html) | 
+| **Chef Salad**    | [Link to another page](ChefSalad.html)|
 
 
