@@ -3,8 +3,8 @@
 <h1 align="center">  HOME</h1>
 
 <div style="background-color: yellow; padding: 10px">
-	<!-- Your content goes here -->
-</div>
+	
+
 
 
 
@@ -26,4 +26,4 @@
 | **Chili and Rice** | [Link to another page](ChiliRice.html) | 
 | **Chef Salad**    | [Link to another page](ChefSalad.html)|
 
-
+</div>
