@@ -2,8 +2,9 @@
 
 ---
 # User Stories, Functional and Non-Functional Requirements 
-
-<center> ![alt text](1.png) </center> 
+---
+## 1 
+ ![1](1.png)
 
 
 
