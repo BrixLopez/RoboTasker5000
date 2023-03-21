@@ -47,6 +47,21 @@
 *With these requirements, the RT5000 meal prep can help you cook delicious and healthy meals with ease and convenience. Bon appetit*
 
 ---
+---
+<h1 align="center">Credits </h1>
+
+## Members 
+
+### [Brix Lopez](https://www.linkedin.com/in/brixlopez/)
+### [Feven Haile](https://www.linkedin.com/in/feven-haile-a80669261/)
+
+## Trello Workspace 
+### [User Story Board](https://trello.com/b/1iHTwr1O/user-story-requirements)
+
+## Github 
+[Repository](https://github.com/BrixLopez/RoboTasker5000)
+[WebPage](https://brixlopez.github.io/RoboTasker5000/)
+
 
 
 
