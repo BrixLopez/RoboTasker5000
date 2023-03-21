@@ -33,16 +33,16 @@
 <h1 align="center">Top 10 List of Requirements  </h1>
 
 ---
-> 1. I should be able to choose the recipe for Chicken Soup, Chili and Rice, Tuna Sandwich, and Chef Salad, as well as the preferred presentation method using an app on the RT5000.
-> 1. A built-in timer on the RT5000 needs to notify me when the meal is prepared.
-> 1. I should be capable to choose from a list of possibilities that the RT5000 can generate using a database of ingredients that it has access to.
-> 1. A variety of quality spices and seasonings from the RT5000 should be included in the meal to improve the flavor.
-> 1. The touchscreen interface of the RT5000 should be simple to use and navigate.
-> 1. To quickly and efficiently chop vegetables and other elements for the salad, the RT5000 should have a set of sharp blades and cutting boards.
-> 1. The voice assistant on the RT5000 should be able to direct me through the cooking process and respond to any queries I might have.
-> 1. A variety of quality spices and seasonings from the RT5000 should be included in the meal to improve the flavor.
-> 1. To guarantee that the soup is cooked correctly and completely, the RT5000 should come equipped with high-quality cooking utensils and tools.
-> 1. An app that offers step-by-step directions for preparing the chili and rice dish should be available for the RT5000.
+> 1. **I should be able to choose the recipe for Chicken Soup, Chili and Rice, Tuna Sandwich, and Chef Salad, as well as the preferred presentation method using an app on the RT5000.**
+> 1. **A built-in timer on the RT5000 needs to notify me when the meal is prepared.**
+> 1. **I should be capable to choose from a list of possibilities that the RT5000 can generate using a database of ingredients that it has access to.**
+> 1. **A variety of quality spices and seasonings from the RT5000 should be included in the meal to improve the flavor.**
+> 1. **The touchscreen interface of the RT5000 should be simple to use and navigate.**
+> 1. **To quickly and efficiently chop vegetables and other elements for the salad, the RT5000 should have a set of sharp blades and cutting boards.**
+> 1. **The voice assistant on the RT5000 should be able to direct me through the cooking process and respond to any queries I might have.**
+> 1. **A variety of quality spices and seasonings from the RT5000 should be included in the meal to improve the flavor.**
+> 1. **To guarantee that the soup is cooked correctly and completely, the RT5000 should come equipped with high-quality cooking utensils and tools.**
+> 1. **An app that offers step-by-step directions for preparing the chili and rice dish should be available for the RT5000.**
 
 *With these requirements, the RT5000 meal prep can help you cook delicious and healthy meals with ease and convenience. Bon appetit*
 
