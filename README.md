@@ -50,7 +50,6 @@
 ---
 <h1 align="center">Credits </h1>
 
-<div style="text-align:center">
 
 ## Members 
 
@@ -64,8 +63,6 @@
 ### [Repository](https://github.com/BrixLopez/RoboTasker5000)
 
 ### [WebPage](https://brixlopez.github.io/RoboTasker5000/)
-  
-</div>
 
 
 
