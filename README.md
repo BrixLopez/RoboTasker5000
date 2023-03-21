@@ -57,7 +57,7 @@
 ### [Feven Haile](https://www.linkedin.com/in/feven-haile-a80669261/)
 
 ## Trello Workspace 
-### [User Story Board](https://trello.com/b/1iHTwr1O/user-story-requirements)
+### [User Stories Board](https://trello.com/b/1iHTwr1O/user-story-requirements)
 
 ## Github 
 ### [Repository](https://github.com/BrixLopez/RoboTasker5000)
