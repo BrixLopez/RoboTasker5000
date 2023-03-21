@@ -1,5 +1,5 @@
 
-<h1 align="center">  HOME</h1>
+<h1 align="center">Home</h1>
 
 >
 > ![Branching](file-20220906-16-3sovqs.jpg.webp)
