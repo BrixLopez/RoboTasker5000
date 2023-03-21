@@ -50,6 +50,8 @@
 ---
 <h1 align="center">Credits </h1>
 
+<div style="text-align:center">
+
 ## Members 
 
 ### [Brix Lopez](https://www.linkedin.com/in/brixlopez/)
@@ -59,9 +61,11 @@
 ### [User Story Board](https://trello.com/b/1iHTwr1O/user-story-requirements)
 
 ## Github 
-[Repository](https://github.com/BrixLopez/RoboTasker5000)
-[WebPage](https://brixlopez.github.io/RoboTasker5000/)
+### [Repository](https://github.com/BrixLopez/RoboTasker5000)
 
+### [WebPage](https://brixlopez.github.io/RoboTasker5000/)
+  
+</div>
 
 
 
