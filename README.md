@@ -49,7 +49,7 @@
 
 <h1 align="center">User Interface Wireframes </h1>
 
-## [Go Here](UserStories.md)
+## [Go Here](UI.md)
 
 ---
 ---
