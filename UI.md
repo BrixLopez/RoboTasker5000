@@ -4,7 +4,7 @@
 > 
 > ![alt text](Screenshot 2023-03-22 at 12.02.52 AM.png)
 
-### Log in an account to access your RT5000*
+### Log in an account to access your RT5000
 
 ---
 
