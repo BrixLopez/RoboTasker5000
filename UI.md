@@ -1,6 +1,6 @@
-## User Interface Wireframes 
+# User Interface Wireframes 
 
-> **LOG IN SECTION**
+> ## LOG IN SECTION
 > 
 > ![alt text](Screenshot 2023-03-22 at 12.02.52 AM.png)
 
@@ -8,25 +8,25 @@
 
 ---
 
-> **RECIPE SECTION**
+> ## RECIPE SECTION
 > 
 > ![alt text](Screenshot 2023-03-22 at 12.03.01 AM.png)
 
-*Recipe Section that have your list of existing recipe and you can also add recipe*
+### Recipe Section that have your list of existing recipe and you can also add recipe
 
 ---
 
-> **Customize your Recipe**
+> ## Customize your Recipe
 > 
 > ![alt text](Screenshot 2023-03-22 at 12.03.09 AM.png)
 
-*Add or disregard recipe based on your preferences*
+### Add or disregard recipe based on your preferences
 
 ---
 
-> **Loading Section**
+> ## Loading Section
 > 
 > ![alt text](Screenshot 2023-03-22 at 12.03.19 AM.png)
 
-*You can see the timeframe of the task that is given to RT5000*
+### You can see the timeframe of the task that is given to RT5000
 
